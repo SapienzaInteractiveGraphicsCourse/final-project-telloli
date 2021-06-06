@@ -1,0 +1,59 @@
+*************************************
+*				                            *
+*		         OSSIRION               *
+*				                            *
+*************************************
+
+Gioco in 2D platform con 
+
+Menu (the mandalorian 8-bit theme in sottofondo)
+  |- 1) Play
+  |- 2) How to play
+
+SEZIONE HOW TO PLAY
+Immagine o spiegazione scritta dell'uso dei comandi
+<W,A,S,D> + p per sparare
+	
+PLAY 
+
+Il gioco avrà:
+|
+|----> 1) Livello 1
+|
+|----> 2) Boss Fight 
+
+TRAMA 
+
+INTRO:
+Alcuni leggono Guerra e pace e pensano che sia solamente un libro di avventura, altri leggono gli ingredienti su una cartina di chewing gum e scoprono i segreti dell'universo.
+
+-----------------------------------------------
+SPIEGONE INIZIALE CON IMMAGINI E TESTO
+
+Terra:
+     L'inventore Heimer, è riuscito finalmente ad aprire il portale multidimensionale per accedere a nuove risorse dell'universo.
+
+Sfortunatamente il punto della dimensione alla quale accede Ing.H
+è il pianeta OSSIRION in cui risiedono creature amorfe al limite della loro evoluzione e bisognose di energia,(simili ad elfi oscuri) che escono dal portale in cerca del sole.
+
+Heimer capito lo sbaglio migliora il generatore di portai e riesce ad aprirne un secondo in una dimensione in cui l'umanità si è evoluta in supereroi dei videogiochi.
+---------------------------------------------------------------
+
+SELEZIONE PERSONAGGIO
+
+---------------------------------------------------------------
+
+Avvio LV1 (3 cuori come vita)
+
+--------------------------------------------------------------
+
+Boss fight 
+
+ 
+
+
+
+
+PROGRAMMI PER SPRITE
+
+Piskel
